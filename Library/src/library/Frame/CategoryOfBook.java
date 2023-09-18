@@ -1,3 +1,9 @@
+
+
+//Mohan moha nmohan Mohan moha nmohan 
+
+
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
@@ -131,7 +137,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel6.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton1.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton1.setContentAreaFilled(false);
 
         jButton2.setText("jButton2");
@@ -156,7 +161,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel7.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton17.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton17.setContentAreaFilled(false);
 
         jButton18.setText("jButton2");
@@ -181,7 +185,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel8.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton19.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton19.setContentAreaFilled(false);
 
         jButton20.setText("jButton2");
@@ -206,7 +209,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel9.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton21.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton21.setContentAreaFilled(false);
 
         jButton22.setText("jButton2");
@@ -231,7 +233,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel10.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton23.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton23.setContentAreaFilled(false);
 
         jButton24.setText("jButton2");
@@ -257,7 +258,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel11.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton25.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton25.setContentAreaFilled(false);
 
         jButton26.setText("jButton2");
@@ -283,7 +283,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel12.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton27.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton27.setContentAreaFilled(false);
 
         jButton28.setText("jButton2");
@@ -309,7 +308,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
 
         jPanel13.setBackground(new java.awt.Color(150, 194, 145));
 
-        jButton29.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\BOOK1.jpg")); // NOI18N
         jButton29.setContentAreaFilled(false);
 
         jButton30.setText("jButton2");
@@ -386,8 +384,6 @@ public class CategoryOfBook extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\java\\project\\images\\images (1).jpg")); // NOI18N
-
         javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
         jPanel14.setLayout(jPanel14Layout);
         jPanel14Layout.setHorizontalGroup(
@@ -405,7 +401,7 @@ public class CategoryOfBook extends javax.swing.JFrame {
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel5Layout.createSequentialGroup()
                 .addComponent(jPanel4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 252, Short.MAX_VALUE)
                 .addComponent(jPanel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap())
         );
@@ -423,7 +419,7 @@ public class CategoryOfBook extends javax.swing.JFrame {
             .addComponent(jPanel3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, 1257, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(16, 16, 16))
         );
         jPanel1Layout.setVerticalGroup(

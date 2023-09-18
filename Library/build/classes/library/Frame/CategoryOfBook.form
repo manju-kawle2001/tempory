@@ -47,7 +47,7 @@
               <Component id="jPanel3" alignment="1" max="32767" attributes="0"/>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace max="32767" attributes="0"/>
-                  <Component id="jPanel5" min="-2" pref="1257" max="-2" attributes="0"/>
+                  <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
               </Group>
           </Group>
@@ -181,7 +181,7 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
                       <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace max="32767" attributes="0"/>
+                      <EmptySpace pref="252" max="32767" attributes="0"/>
                       <Component id="jPanel14" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                   </Group>
@@ -291,9 +291,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton1">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -335,9 +332,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton17">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -379,9 +373,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton19">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -423,9 +414,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton21">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -468,9 +456,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton23">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -513,9 +498,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton25">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -558,9 +540,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton27">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -603,9 +582,6 @@
                   <SubComponents>
                     <Component class="javax.swing.JButton" name="jButton29">
                       <Properties>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="2" name="D:\java\project\images\BOOK1.jpg"/>
-                        </Property>
                         <Property name="contentAreaFilled" type="boolean" value="false"/>
                       </Properties>
                     </Component>
@@ -650,11 +626,6 @@
               </Layout>
               <SubComponents>
                 <Component class="javax.swing.JLabel" name="jLabel2">
-                  <Properties>
-                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="D:\java\project\images\images (1).jpg"/>
-                    </Property>
-                  </Properties>
                 </Component>
               </SubComponents>
             </Container>
